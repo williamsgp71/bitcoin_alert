@@ -1,0 +1,6 @@
+{
+  "name": "Bitcoin Alertas",
+  "description": "Visualiza el precio de Bitcoin en tiempo real con gráficos interactivos y configura alertas personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
